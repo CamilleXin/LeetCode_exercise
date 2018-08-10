@@ -1,5 +1,7 @@
 # LeetCode_exercise
-学习并理解leetcode中的问题，提高自己的逻辑思维能力
+跟着大神们，学习并理解leetcode中的问题，提高自己的逻辑思维能力。
+
+一步又一步~
 #问题描述
 
 #sum
@@ -16,16 +18,14 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 
 
-#add_two_numbers
-You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
+#Longest Substring Without Repeating Characters
+Given a string, find the length of the longest substring without repeating characters.
 
-You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+Examples:
 
-Example:
+Given "abcabcbb", the answer is "abc", which the length is 3.
 
-Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
+Given "bbbbb", the answer is "b", with the length of 1.
 
-Output: 7 -> 0 -> 8
-
-Explanation: 342 + 465 = 807.
+Given "pwwkew", the answer is "wke", with the length of 3. Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
 
