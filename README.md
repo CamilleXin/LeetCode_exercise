@@ -4,7 +4,7 @@
 一步又一步~
 #问题描述
 
-#sum
+# sum
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -18,7 +18,7 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 
 
-#Longest Substring Without Repeating Characters
+# Longest Substring Without Repeating Characters
 Given a string, find the length of the longest substring without repeating characters.
 
 Examples:
