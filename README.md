@@ -2,7 +2,7 @@
 跟着大神们，学习并理解leetcode中的问题，提高自己的逻辑思维能力。
 
 一步又一步~
-#问题描述
+# 问题描述
 
 # sum
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
